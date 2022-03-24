@@ -12,7 +12,7 @@ const Whether = () => {
     const [tempInfo,settempInfo] = useState({})
     const getWeatherInfo = async() => {
         try {
-            let url =`http://api.openweathermap.org/data/2.5/weather?q=${searchValue}&units=metric&appid=cdfd977db7b1cfa0e7271c8438da35b0`
+            let url =`https://api.openweathermap.org/data/2.5/weather?q=${searchValue}&units=metric&appid=cdfd977db7b1cfa0e7271c8438da35b0`
 
             let res = await fetch(url)
             let data = await res.json()
