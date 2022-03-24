@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WeatherFind/static/css/main.dac73a3e.css",
+    "main.js": "/WeatherFind/static/js/main.8b2c8d12.js",
+    "static/media/cloudy.jpg": "/WeatherFind/static/media/cloudy.f1de231b98a371e84b51.jpg",
+    "index.html": "/WeatherFind/index.html",
+    "main.dac73a3e.css.map": "/WeatherFind/static/css/main.dac73a3e.css.map",
+    "main.8b2c8d12.js.map": "/WeatherFind/static/js/main.8b2c8d12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac73a3e.css",
+    "static/js/main.8b2c8d12.js"
+  ]
+}
